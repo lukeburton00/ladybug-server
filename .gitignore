@@ -1,0 +1,11 @@
+# dependencies
+node_modules
+
+# environment
+.env*
+.flaskenv*
+!.env.project
+!.env.vault
+
+# os
+.DS_Store
